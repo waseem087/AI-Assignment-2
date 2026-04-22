@@ -67,7 +67,9 @@ python main.py --input-dir instances/small --algorithm mac
 Attach Screenshot:
 
 ```
-<img width="822" height="358" alt="image" src="https://github.com/user-attachments/assets/77f8d31e-0c48-4c15-adf9-2454c6c146f5" />
+/results/backtrack_schedule.png
+
+<img width="866" height="405" alt="image" src="https://github.com/user-attachments/assets/a2b75407-7399-4609-8510-1a6a7718b10d" />
 
 /results/mac_metrics.png
 ```
