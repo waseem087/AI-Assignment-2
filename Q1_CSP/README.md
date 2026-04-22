@@ -229,6 +229,7 @@ Attach:
 ```
 /results/experiment4.png
 ```
+<img width="833" height="417" alt="image" src="https://github.com/user-attachments/assets/0ad3df7f-7ebe-4fb6-b9d3-9abbdd290c86" />
 
 ---
 
