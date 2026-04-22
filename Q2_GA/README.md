@@ -77,6 +77,10 @@ results/10run_fitness.png
 results/10run_convergence.png
 results/10run_summary.png
 ```
+<img width="707" height="337" alt="image" src="https://github.com/user-attachments/assets/5c17eb05-3699-4609-bff6-739d6878b427" />
+
+
+<img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/a21b100e-87f0-413b-9db1-64d3bcaca772" />
 
 ---
 
