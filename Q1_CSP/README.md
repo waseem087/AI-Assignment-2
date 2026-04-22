@@ -69,10 +69,12 @@ Attach Screenshot:
 ```
 /results/backtrack_schedule.png
 
-<img width="866" height="405" alt="image" src="https://github.com/user-attachments/assets/a2b75407-7399-4609-8510-1a6a7718b10d" />
+
 
 /results/mac_metrics.png
 ```
+<img width="866" height="405" alt="image" src="https://github.com/user-attachments/assets/a2b75407-7399-4609-8510-1a6a7718b10d" />
+
 <img width="632" height="189" alt="image" src="https://github.com/user-attachments/assets/b779f0b6-111a-43f0-af64-4c7fd930099d" />
 
 ---
