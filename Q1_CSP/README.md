@@ -96,6 +96,7 @@ Attach Screenshot:
 /results/backtrack_schedule.png
 /results/backtrack_metrics.png
 ```
+<img width="898" height="596" alt="image" src="https://github.com/user-attachments/assets/7e20f199-5fa2-4cc9-a511-09b846c486b7" />
 
 ---
 
