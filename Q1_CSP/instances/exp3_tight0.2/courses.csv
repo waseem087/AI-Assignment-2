@@ -1,0 +1,21 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,HCI,Mr Aamir Gulzar,51,50,Projector
+CS101-02,Distributed AI,Mr Arshad Islam,23,75,Projector
+CS102-03,Ethical Hacking,Maam Marium Hida,17,50,Lab
+CS103-01,Signal Processing,Mr Anas Bin Rashid,55,75,Lab
+CS104-02,Intro to Programming,Mr Hasnain Akhtar,42,75,Lab
+CS105-03,Calculus I,Mr Hasan Mujtaba,47,75,Whiteboard
+CS106-01,English Composition,Maam Bushra Kanwal,18,75,Whiteboard
+CS107-02,NLP,Mr Aamir Gulzar,21,75,Lab
+CS108-03,Probability,Mr Arshad Islam,48,75,Lab
+CS109-01,Quantum Computing,Maam Marium Hida,46,50,Projector
+CS110-02,Data Structures,Mr Anas Bin Rashid,51,75,Lab
+CS111-03,Machine Learning,Mr Hasnain Akhtar,45,50,Lab
+CS112-01,Big Data,Mr Hasan Mujtaba,15,50,Lab
+CS113-02,Image Processing,Maam Bushra Kanwal,44,50,Lab
+CS114-03,IoT Systems,Mr Aamir Gulzar,45,75,Lab
+CS115-01,Computer Architecture,Mr Arshad Islam,30,50,Projector
+CS116-02,Embedded Systems,Maam Marium Hida,20,50,Lab
+CS117-03,Computer Graphics,Mr Anas Bin Rashid,24,50,Lab
+CS118-01,Bioinformatics,Mr Hasnain Akhtar,29,50,Whiteboard
+CS119-02,Calculus II,Mr Hasan Mujtaba,51,75,Whiteboard

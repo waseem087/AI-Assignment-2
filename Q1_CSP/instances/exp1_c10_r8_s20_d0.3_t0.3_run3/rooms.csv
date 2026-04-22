@@ -1,0 +1,9 @@
+RoomID,Building,Capacity,Features
+R101,Eng Block,64,Projector;Lab;Whiteboard
+R102,Eng Block,50,Lab;Projector
+R103,CS Building,50,Whiteboard;Lab
+R104,Eng Block,50,Whiteboard;Lab
+R105,Eng Block,60,Whiteboard;Projector
+R106,CS Building,80,Projector;Whiteboard;Lab
+R107,Lab Building,50,Whiteboard;Projector;Lab
+R108,CS Building,80,Whiteboard;Lab;Projector

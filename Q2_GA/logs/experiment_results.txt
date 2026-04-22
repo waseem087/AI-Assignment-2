@@ -1,0 +1,14 @@
+GA Experiment Results -- 10 runs
+Best:  0.7471
+Mean:  0.7346
+Std:   0.0096
+Run 1: fitness=0.7321 gen=64 reason=fitness_converged
+Run 2: fitness=0.7397 gen=93 reason=fitness_converged
+Run 3: fitness=0.7314 gen=78 reason=fitness_converged
+Run 4: fitness=0.7422 gen=82 reason=fitness_converged
+Run 5: fitness=0.7408 gen=60 reason=fitness_converged
+Run 6: fitness=0.7162 gen=59 reason=fitness_converged
+Run 7: fitness=0.7430 gen=64 reason=fitness_converged
+Run 8: fitness=0.7247 gen=79 reason=fitness_converged
+Run 9: fitness=0.7292 gen=58 reason=fitness_converged
+Run 10: fitness=0.7471 gen=61 reason=fitness_converged

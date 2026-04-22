@@ -1,0 +1,21 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Numerical Methods,Mr Aamir Gulzar,34,50,Whiteboard
+CS101-02,Computer Architecture,Mr Arshad Islam,39,50,Projector
+CS102-03,Data Mining,Maam Marium Hida,48,50,Projector
+CS103-01,Artificial Intelligence,Mr Anas Bin Rashid,18,50,Whiteboard
+CS104-02,Cloud Computing,Mr Hasnain Akhtar,43,50,Projector
+CS105-03,Database Systems,Mr Hasan Mujtaba,23,75,Projector
+CS106-01,Statistics,Maam Bushra Kanwal,18,75,Lab
+CS107-02,English Composition,Mr Aamir Gulzar,53,50,Projector
+CS108-03,Formal Methods,Mr Arshad Islam,21,50,Lab
+CS109-01,Robotics,Maam Marium Hida,33,50,Lab
+CS110-02,Probability,Mr Anas Bin Rashid,41,50,Lab
+CS111-03,Calculus II,Mr Hasnain Akhtar,50,50,Projector
+CS112-01,Machine Learning,Mr Hasan Mujtaba,29,75,Projector
+CS113-02,Embedded Systems,Maam Bushra Kanwal,38,50,Lab
+CS114-03,Bioinformatics,Mr Aamir Gulzar,47,50,Projector
+CS115-01,Differential Equations,Mr Arshad Islam,52,50,Lab
+CS116-02,Distributed Systems,Maam Marium Hida,28,75,Projector
+CS117-03,Distributed AI,Mr Anas Bin Rashid,36,75,Projector
+CS118-01,Software Engineering,Mr Hasnain Akhtar,41,75,Projector
+CS119-02,Software Testing,Mr Hasan Mujtaba,26,50,Lab

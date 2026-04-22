@@ -1,0 +1,21 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Signal Processing,Mr Aamir Gulzar,25,75,Projector
+CS101-02,Cybersecurity,Mr Arshad Islam,28,75,Whiteboard
+CS102-03,Operating Systems,Maam Marium Hida,19,75,Whiteboard
+CS103-01,Robotics,Mr Anas Bin Rashid,49,50,Whiteboard
+CS104-02,Differential Equations,Mr Hasnain Akhtar,25,50,Projector
+CS105-03,Artificial Intelligence,Mr Hasan Mujtaba,32,75,Whiteboard
+CS106-01,Computer Networks,Maam Bushra Kanwal,35,50,Lab
+CS107-02,Computer Architecture,Mr Aamir Gulzar,17,50,Projector
+CS108-03,Software Engineering,Mr Arshad Islam,32,75,Lab
+CS109-01,Game Development,Maam Marium Hida,51,50,Whiteboard
+CS110-02,IoT Systems,Mr Anas Bin Rashid,28,75,Whiteboard
+CS111-03,Numerical Methods,Mr Hasnain Akhtar,40,75,Whiteboard
+CS112-01,English Composition,Mr Hasan Mujtaba,24,75,Projector
+CS113-02,Computer Vision,Maam Bushra Kanwal,30,50,Whiteboard
+CS114-03,Discrete Mathematics,Mr Aamir Gulzar,52,75,Projector
+CS115-01,NLP,Mr Arshad Islam,38,75,Lab
+CS116-02,Image Processing,Maam Marium Hida,47,50,Projector
+CS117-03,Project Management,Mr Anas Bin Rashid,18,50,Lab
+CS118-01,Quantum Computing,Mr Hasnain Akhtar,55,50,Lab
+CS119-02,Parallel Computing,Mr Hasan Mujtaba,53,75,Lab

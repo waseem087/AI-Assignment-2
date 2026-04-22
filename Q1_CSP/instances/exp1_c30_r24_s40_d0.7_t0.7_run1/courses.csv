@@ -1,0 +1,31 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Cloud Computing,Mr Aamir Gulzar,46,75,Whiteboard
+CS101-02,NLP,Mr Arshad Islam,42,75,Lab
+CS102-03,Physics I,Maam Marium Hida,41,75,Whiteboard
+CS103-01,Embedded Systems,Mr Anas Bin Rashid,37,50,Lab
+CS104-02,Project Management,Mr Hasnain Akhtar,24,50,Whiteboard
+CS105-03,Statistics,Mr Hasan Mujtaba,21,75,Whiteboard
+CS106-01,Artificial Intelligence,Maam Bushra Kanwal,43,75,Whiteboard
+CS107-02,Image Processing,Mr Bilal Ahmed,24,50,Lab
+CS108-03,Big Data,Mr Usman Malik,22,50,Lab
+CS109-01,Graph Theory,Mr Kamran Javed,36,50,Lab
+CS110-02,Intro to Programming,Mr Aamir Gulzar,31,75,Whiteboard
+CS111-03,Operating Systems,Mr Arshad Islam,36,75,Projector
+CS112-01,Compiler Design,Maam Marium Hida,17,50,Lab
+CS113-02,English Composition,Mr Anas Bin Rashid,40,50,Lab
+CS114-03,Data Mining,Mr Hasnain Akhtar,31,75,Whiteboard
+CS115-01,Signal Processing,Mr Hasan Mujtaba,35,75,Projector
+CS116-02,Differential Equations,Maam Bushra Kanwal,18,75,Lab
+CS117-03,Bioinformatics,Mr Bilal Ahmed,27,50,Whiteboard
+CS118-01,Physics II,Mr Usman Malik,29,50,Projector
+CS119-02,Distributed Systems,Mr Kamran Javed,37,50,Lab
+CS120-03,Data Structures,Mr Aamir Gulzar,39,50,Projector
+CS121-01,Numerical Methods,Mr Arshad Islam,18,50,Projector
+CS122-02,Cybersecurity,Maam Marium Hida,21,50,Lab
+CS123-03,Computer Architecture,Mr Anas Bin Rashid,49,50,Whiteboard
+CS124-01,Probability,Mr Hasnain Akhtar,52,50,Projector
+CS125-02,Web Development,Mr Hasan Mujtaba,29,75,Lab
+CS126-03,Discrete Mathematics,Maam Bushra Kanwal,40,75,Lab
+CS127-01,Algorithms,Mr Bilal Ahmed,15,50,Lab
+CS128-02,Software Testing,Mr Usman Malik,22,50,Whiteboard
+CS129-03,HCI,Mr Kamran Javed,27,75,Projector

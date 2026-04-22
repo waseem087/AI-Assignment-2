@@ -1,0 +1,31 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Web Development,Mr Aamir Gulzar,15,50,Whiteboard
+CS101-02,Formal Methods,Mr Arshad Islam,37,75,Whiteboard
+CS102-03,Data Mining,Maam Marium Hida,40,50,Lab
+CS103-01,IoT Systems,Mr Anas Bin Rashid,36,75,Lab
+CS104-02,Intro to Programming,Mr Hasnain Akhtar,53,50,Whiteboard
+CS105-03,Differential Equations,Mr Hasan Mujtaba,42,50,Lab
+CS106-01,Embedded Systems,Maam Bushra Kanwal,22,75,Lab
+CS107-02,Operating Systems,Mr Fahad Chaudhry,15,50,Whiteboard
+CS108-03,Discrete Mathematics,Mr Zain ul Abedin,19,75,Projector
+CS109-01,Ethical Hacking,Maam Nadia Fatima,15,50,Projector
+CS110-02,Database Systems,Mr Aamir Gulzar,26,75,Whiteboard
+CS111-03,Simulation,Mr Arshad Islam,18,50,Projector
+CS112-01,NLP,Maam Marium Hida,31,75,Lab
+CS113-02,Statistics,Mr Anas Bin Rashid,49,75,Projector
+CS114-03,Calculus I,Mr Hasnain Akhtar,33,50,Projector
+CS115-01,Physics II,Mr Hasan Mujtaba,40,75,Projector
+CS116-02,Project Management,Maam Bushra Kanwal,50,75,Projector
+CS117-03,Linear Algebra,Mr Fahad Chaudhry,35,50,Projector
+CS118-01,HCI,Mr Zain ul Abedin,23,50,Whiteboard
+CS119-02,Mobile Computing,Maam Nadia Fatima,19,50,Projector
+CS120-03,Physics I,Mr Aamir Gulzar,37,75,Projector
+CS121-01,Image Processing,Mr Arshad Islam,32,50,Whiteboard
+CS122-02,Data Structures,Maam Marium Hida,32,50,Whiteboard
+CS123-03,Computer Graphics,Mr Anas Bin Rashid,30,75,Lab
+CS124-01,Signal Processing,Mr Hasnain Akhtar,50,50,Projector
+CS125-02,Machine Learning,Mr Hasan Mujtaba,47,50,Projector
+CS126-03,Probability,Maam Bushra Kanwal,23,75,Projector
+CS127-01,Software Testing,Mr Fahad Chaudhry,23,75,Lab
+CS128-02,Robotics,Mr Zain ul Abedin,48,75,Lab
+CS129-03,Graph Theory,Maam Nadia Fatima,35,75,Projector

@@ -1,0 +1,11 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Signal Processing,Mr Aamir Gulzar,25,75,Projector
+CS101-02,Cybersecurity,Mr Arshad Islam,28,75,Whiteboard
+CS102-03,Operating Systems,Maam Marium Hida,19,75,Whiteboard
+CS103-01,Robotics,Mr Anas Bin Rashid,49,50,Whiteboard
+CS104-02,Differential Equations,Mr Hasnain Akhtar,25,50,Projector
+CS105-03,Artificial Intelligence,Mr Hasan Mujtaba,32,75,Whiteboard
+CS106-01,Computer Networks,Maam Bushra Kanwal,35,50,Lab
+CS107-02,Computer Architecture,Mr Aamir Gulzar,17,50,Projector
+CS108-03,Software Engineering,Mr Arshad Islam,32,75,Lab
+CS109-01,Game Development,Maam Marium Hida,51,50,Whiteboard

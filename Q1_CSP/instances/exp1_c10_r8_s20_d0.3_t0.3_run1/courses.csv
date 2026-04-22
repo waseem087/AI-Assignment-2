@@ -1,0 +1,11 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Compiler Design,Mr Aamir Gulzar,26,75,Whiteboard
+CS101-02,Ethical Hacking,Mr Arshad Islam,50,50,Whiteboard
+CS102-03,Parallel Computing,Maam Marium Hida,34,50,Projector
+CS103-01,Physics I,Mr Anas Bin Rashid,42,75,Lab
+CS104-02,Image Processing,Mr Hasnain Akhtar,41,75,Whiteboard
+CS105-03,Intro to Programming,Mr Hasan Mujtaba,37,50,Lab
+CS106-01,Formal Methods,Maam Bushra Kanwal,24,50,Whiteboard
+CS107-02,Numerical Methods,Mr Aamir Gulzar,21,75,Whiteboard
+CS108-03,Bioinformatics,Mr Arshad Islam,43,75,Whiteboard
+CS109-01,Signal Processing,Maam Marium Hida,24,50,Lab

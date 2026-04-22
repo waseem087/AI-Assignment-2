@@ -1,0 +1,11 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100-01,Parallel Computing,Mr Aamir Gulzar,48,75,Whiteboard
+CS101-02,Formal Methods,Mr Arshad Islam,49,50,Lab
+CS102-03,Distributed AI,Maam Marium Hida,40,50,Lab
+CS103-01,Robotics,Mr Anas Bin Rashid,26,75,Whiteboard
+CS104-02,Intro to Programming,Mr Hasnain Akhtar,26,50,Projector
+CS105-03,Computer Graphics,Mr Hasan Mujtaba,51,75,Whiteboard
+CS106-01,Computer Networks,Maam Bushra Kanwal,48,50,Whiteboard
+CS107-02,English Composition,Mr Aamir Gulzar,27,50,Lab
+CS108-03,Computer Architecture,Mr Arshad Islam,20,75,Lab
+CS109-01,Physics I,Maam Marium Hida,43,75,Whiteboard
