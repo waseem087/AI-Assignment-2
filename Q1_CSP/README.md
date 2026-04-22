@@ -117,6 +117,7 @@ Attach Screenshot:
 /results/fc_schedule.png
 /results/fc_metrics.png
 ```
+<img width="853" height="548" alt="image" src="https://github.com/user-attachments/assets/9cd8c765-aa13-43c5-99cb-080d95edba04" />
 
 ---
 
