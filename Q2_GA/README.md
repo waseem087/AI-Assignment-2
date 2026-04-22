@@ -43,6 +43,10 @@ results/single_run_schedule.png
 results/single_run_fitness.png
 results/single_run_metrics.png
 ```
+<img width="730" height="268" alt="image" src="https://github.com/user-attachments/assets/0081f2c4-4aef-45bd-adbd-b3aac449ae85" />
+
+
+<img width="910" height="829" alt="image" src="https://github.com/user-attachments/assets/fde08bf6-3e6d-494f-a7d2-eefb4bb57f77" />
 
 ---
 
