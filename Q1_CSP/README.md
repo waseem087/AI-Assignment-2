@@ -138,6 +138,7 @@ Attach Screenshot:
 /results/minconflicts_schedule.png
 /results/minconflicts_metrics.png
 ```
+<img width="875" height="564" alt="image" src="https://github.com/user-attachments/assets/cd2238f5-067d-4ca8-80f0-a7ca07db0806" />
 
 ---
 
